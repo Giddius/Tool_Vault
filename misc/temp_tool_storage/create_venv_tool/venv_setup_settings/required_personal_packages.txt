@@ -1,0 +1,6 @@
+D:\Dropbox\hobby\Modding\Programs\Github\My_Repos\gidtools_utils,gidtools
+D:\Dropbox\hobby\Modding\Programs\Github\My_Repos\gidqtutils,gidqtutils
+D:\Dropbox\hobby\Modding\Programs\Github\My_Repos\gidlogger_rep,gidlogger
+D:\Dropbox\hobby\Modding\Programs\Github\My_Repos\Gid_Vscode_Wrapper,gid_vscode_wrapper
+D:\Dropbox\hobby\Modding\Programs\Github\My_Repos\Gid_View_models,gid_view_models
+D:\Dropbox\hobby\Modding\Programs\Github\My_Repos\Gidconfig,gidconfig

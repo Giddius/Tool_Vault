@@ -1,0 +1,15 @@
+    Usage: sconsign [OPTIONS] [FILE ...]
+    Options:
+      -a, --act, --action         Print build action information.
+      -c, --csig                  Print content signature information.
+      -d DIR, --dir=DIR           Print only info about DIR.
+      -e ENTRY, --entry=ENTRY     Print only info about ENTRY.
+      -f FORMAT, --format=FORMAT  FILE is in the specified FORMAT.
+      -h, --help                  Print this message and exit.
+      -i, --implicit              Print implicit dependency information.
+      -r, --readable              Print timestamps in human-readable form.
+      --raw                       Print raw Python object representations.
+      -s, --size                  Print file sizes.
+      -t, --timestamp             Print timestamp information.
+      -v, --verbose               Verbose, describe each field.
+    
