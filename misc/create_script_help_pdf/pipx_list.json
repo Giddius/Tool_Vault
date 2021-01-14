@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "location": "C:\\Users\\Giddi\\.local\\bin"
+  },
+  "scripts": {
+    "autoflake": [
+      "autoflake.exe"
+    ],
+    "autopep8": [
+      "autopep8.exe"
+    ],
+    "gprof2dot": [
+      "gprof2dot.exe"
+    ],
+    "isort": [
+      "isort.exe"
+    ],
+    "pip-upgrade-outdated": [
+      "pip_upgrade_outdated.exe"
+    ],
+    "prospector": [
+      "prospector.exe"
+    ],
+    "py-heat": [
+      "pyheat.exe"
+    ],
+    "py-spy": [
+      "pyspy.exe"
+    ],
+    "pyclean": [
+      "py2clean.exe",
+      "py3clean.exe",
+      "pyclean.exe",
+      "pypyclean.exe"
+    ],
+    "pylint": [
+      "epylint.exe",
+      "pylint.exe",
+      "pyreverse.exe",
+      "symilar.exe"
+    ],
+    "pyqt5-tools": [
+      "pyqt5designer.exe",
+      "pyqt5qmlscene.exe",
+      "pyqt5qmltestrunner.exe",
+      "pyqt5toolsinstalluic.exe"
+    ],
+    "python-dotenv": [
+      "dotenv.exe"
+    ],
+    "radon": [
+      "radon.exe"
+    ],
+    "scons": [
+      "sconsconfigurecache.exe",
+      "scons.exe",
+      "sconsign.exe"
+    ],
+    "vprof": [
+      "vprof.exe"
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+    "post_setup_scripts.txt": [
+        "create_venv_extra_envvars.py,%WORKSPACE_FOLDER% %PROJECT_NAME% %PROJECT_AUTHOR%"
+    ],
+    "pre_setup_scripts.txt": [
+        "pskill64,Dropbox",
+        "clean_workspace.py,%WORKSPACE_FOLDER%"
+    ],
+    "required_dev.txt": [
+        "pep517",
+        "memory-profiler",
+        "matplotlib",
+        "import-profiler",
+        "objectgraph",
+        "pipreqs",
+        "pydeps",
+        "--force-reinstall numpy==1.19.3",
+        "pyqt5-tools",
+        "PyQt5-stubs",
+        "pyvis",
+        "pinspect",
+        "icecream",
+        "inspect_mate",
+        "check-manifest",
+        "autopep8"
+    ],
+    "required_from_github.txt": [
+        "https://github.com/overfl0/Armaclass.git",
+        "https://github.com/pyinstaller/pyinstaller.git"
+    ],
+    "required_misc.txt": [
+        "googletrans==4.0.0-rc1",
+        "Jinja2",
+        "checksumdir",
+        "click",
+        "regex",
+        "parce",
+        "fuzzywuzzy",
+        "python-Levenshtein",
+        "Pillow",
+        "PyGithub",
+        "WeasyPrint",
+        "discord.py",
+        "url-normalize",
+        "async-property",
+        "watchgod",
+        "pdfkit",
+        "pytz",
+        "google-auth",
+        "google_api_python_client",
+        "google_auth_oauthlib",
+        "psutil",
+        "--force-reinstall cchardet",
+        "python-benedict",
+        "udpy",
+        "commonmark",
+        "pyfiglet",
+        "graphviz",
+        "pydot",
+        "lxml",
+        "networkx",
+        "pyowm",
+        "colormap",
+        "aiosqlite",
+        "discord-flags",
+        "paramiko[all]",
+        "invoke"
+    ],
+    "required_personal_packages.txt": [
+        "D:\\Dropbox\\hobby\\Modding\\Programs\\Github\\My_Repos\\Gid_Vscode_Wrapper,gid_vscode_wrapper",
+        "D:\\Dropbox\\hobby\\Modding\\Programs\\Github\\My_Repos\\gidtools_utils,gidtools",
+        "D:\\Dropbox\\hobby\\Modding\\Programs\\Github\\My_Repos\\GidConfig,gidconfig",
+        "D:\\Dropbox\\hobby\\Modding\\Programs\\Github\\My_Repos\\GidAppData,gidappdata",
+        "D:\\Dropbox\\hobby\\Modding\\Programs\\Github\\My_Repos\\gidlogger_rep,gidlogger",
+        "D:\\Dropbox\\hobby\\Modding\\Programs\\Github\\My_Repos\\Gid_View_models,gidviewmodels"
+    ],
+    "required_qt.txt": [
+        "PyQt5",
+        "pyopengl",
+        "PyQt3D",
+        "PyQtChart",
+        "PyQtDataVisualization",
+        "PyQtWebEngine",
+        "QScintilla",
+        "pyqtgraph",
+        "parceqt"
+    ],
+    "required_test.txt": [
+        "pytest",
+        "pytest-qt",
+        "pytest-cov",
+        "pytest-venv",
+        "pytest-click"
+    ]
+}
